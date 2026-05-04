@@ -334,6 +334,4 @@ GitHub repository:
 
 `https://github.com/anandnakum-11/Frontend-TUF-Calender`
 
-## License
 
-This project currently has no explicit license file in the repository. Add a license if you plan to distribute or open-source it more formally.
